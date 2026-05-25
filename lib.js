@@ -1,13 +1,12 @@
-<<<<<<< HEAD
 let images = [
 
     "assets/anh1.jpg",
 
     "assets/anh2.jpg",
 
-    "assets/anh3.jpg",
+    "assets/anh3.jpg ",
 
-    "assets/anh4.jpg"
+    "assets/anh4.jpg",
 
 ];
 
@@ -44,10 +43,5 @@ function prevSlide(){
     }
 
     showSlide();
-=======
-function changeMode(){
-
-    document.body.classList.toggle("dark");
->>>>>>> 8b06dff31888eaff5b6e3c1467bd4fc2d45a7401
 
 }
